@@ -1,0 +1,14 @@
+# Raw data (never commit government microdata)
+data/*.dta
+data/*.sav
+data/*.csv
+
+# Stata temp/log files
+*.log
+*.smcl
+*-temp.dta
+*_temp.dta
+
+# OS files
+.DS_Store
+Thumbs.db
