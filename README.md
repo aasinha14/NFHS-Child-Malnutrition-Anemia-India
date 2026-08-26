@@ -16,7 +16,7 @@ Abhishek Anand Sinha, Anoushka Purohit, Chaitanya Dandale & Durga Sreedevi PR
 
 ## Dataset
 
-- **Source:** National Family Health Survey-5 (NFHS-5), 2019–21, Ministry of Health & Family Welfare, Government of India (KR — Children's Recode — and PR — Household Members' Recode — files)
+- **Source:** National Family Health Survey-5 (NFHS-5), 2019–21, Ministry of Health & Family Welfare, Government of India (KR, Children's Recode, and PR, Household Members' Recode files)
 - **Unit of Analysis:** Children aged 0–59 months (6–59 months for the anemia model)
 - **States Covered:** Uttar Pradesh, Bihar, West Bengal
 - **Sample:** NFHS-5 surveyed 6,36,699 households, 7,24,115 women, and 1,01,839 men nationally; state-wise child-level samples were drawn from the merged KR–PR files for UP, Bihar, and West Bengal
@@ -89,13 +89,13 @@ Abhishek Anand Sinha, Anoushka Purohit, Chaitanya Dandale & Durga Sreedevi PR
 - In UP, wealth quintile and urban/rural residence are largely statistically insignificant for anemia
 - In Bihar and West Bengal, stunting/wasting/underweight show a clearer wealth and caste (SC/ST/OBC) gradient
 
-*(*, **, *** denote significance at 10%, 5%, and 1% respectively — see `outputs/` for full regression tables)*
+*(*, **, *** denote significance at 10%, 5%, and 1% respectively, see `outputs/` for full regression tables)*
 
 ---
 
 ## Policy Context
 
-The analysis is framed against existing government interventions — **Anemia Mukt Bharat**, **POSHAN 2.0**, the **Mothers' Absolute Affection (MAA)** programme, **National Deworming Day**, and **Village Health Sanitation and Nutrition Days** — and argues for treating malnutrition and anemia as a combined, multi-sectoral problem rather than through siloed schemes.
+The analysis is framed against existing government interventions, **Anemia Mukt Bharat**, **POSHAN 2.0**, the **Mothers' Absolute Affection (MAA)** programme, **National Deworming Day**, and **Village Health Sanitation and Nutrition Days**, and argues for treating malnutrition and anemia as a combined, multi-sectoral problem rather than through siloed schemes.
 
 ---
 
@@ -113,10 +113,10 @@ The analysis is framed against existing government interventions — **Anemia Mu
 
 ## Data Ethics Note
 
-NFHS-5 microdata is anonymised, unit-level, and made available by the DHS Program under a data-use agreement — no individual respondent can be identified. All analysis uses survey weights (`hv005`) and the survey design (PSU/strata) to produce state-representative estimates.
+NFHS-5 microdata is anonymised, unit-level, and made available by the DHS Program under a data-use agreement, no individual respondent can be identified. All analysis uses survey weights (`hv005`) and the survey design (PSU/strata) to produce state-representative estimates.
 
 ---
 
 ## License
 
-This project is licensed under [CC BY 4.0](LICENSE) — you are free to use, share, and adapt with attribution.
+This project is licensed under [CC BY 4.0](LICENSE), you are free to use, share, and adapt with attribution.
